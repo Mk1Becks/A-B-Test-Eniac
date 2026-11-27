@@ -39,7 +39,7 @@ Der weiße „JETZT SHOPPEN“-Button im Hauptbanner erreicht nur eine Klickrate
 | C | 527 | 24.876 | 2,12 % |
 | D | 193 | 25.233 | 0,77 % |
 
-![CTR pro Version](images/ctr_per_version.png)
+![CTR pro Version](https://raw.githubusercontent.com/Mk1Becks/A-B-Test-Eniac/main/images/ctr_per_version.png)
 
 - Der Chi-Quadrat-Test über alle Versionen ist signifikant (p ≈ 2,7e-48): Die Klicks hängen von der Version ab.
 - **Rot ist deutlich schlechter als Weiß.** Alle Paarvergleiche mit B oder D sind auch nach Bonferroni-Korrektur signifikant.
